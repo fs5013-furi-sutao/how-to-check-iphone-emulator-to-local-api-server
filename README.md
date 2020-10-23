@@ -2,7 +2,8 @@
 ローカル PC の API サーバと iPhone エミュレータの疎通テストを Windows で行ってみる。
 
 ## 実行環境
-Windows 10
+Windows 端末:  
+Windows 10 Home 64bit バージョン 1909（OS ビルド 18363.1082）
 
 ## 利用ツール・サービス
 - ngrok（SSH トンネリングサービス）
